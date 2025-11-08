@@ -51,3 +51,4 @@
 | KASOKI     | MULIMI    |Blandine|
 | Muhindo    | Kisumba   | Espoir |
 | kavira    | mutambo   | zawadi |
+| KAKULE    | KAVENDIVWA   | Enock |
