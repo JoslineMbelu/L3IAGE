@@ -29,6 +29,8 @@
 | corinne  | sadjabi | brown  |
 | Muhindo     | Mumbesa    | Jospin    |
 | JAKISA     | UROMBI     | Dieu merci     |
+| INYANDEY    |    MUDJUDJU |Anita     |
+| KASOKI     | KAMABU     | Naomie    |
 | Muhindo    | MAGAZINI     | Samy   |
 | KANYERE   | KITULU    | laureine     |
 | kavira     | MULIVONDO     | Ornella   |
@@ -46,3 +48,6 @@
 | MBAMBU     | SIVALINGANA    | Sarah |
 | Furaha     | Hangi    | Jessica |
 | Basani    | Avuta    | Franck |
+| KASOKI     | MULIMI    |Blandine|
+| Muhindo    | Kisumba   | Espoir |
+| kavira    | mutambo   | zawadi |
