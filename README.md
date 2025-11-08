@@ -47,4 +47,5 @@
 | mumbere     | ndako    | Elie |
 | MBAMBU     | SIVALINGANA    | Sarah |
 | Furaha     | Hangi    | Jessica |
+| Muhindo    | Kisumba   | Espoir |
 | kavira    | mutambo   | zawadi |
