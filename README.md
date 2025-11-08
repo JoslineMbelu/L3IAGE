@@ -30,3 +30,19 @@
 | Muhindo     | Mumbesa    | Jospin    |
 | JAKISA     | UROMBI     | Dieu merci     |
 | KASOKI     | KAMABU     | Naomie    |
+| Muhindo    | MAGAZINI     | Samy   |
+| KANYERE   | KITULU    | laureine     |
+| kavira     | MULIVONDO     | Ornella   |
+| KASOKI     | VUSARA     | Livya     |
+| KAVUGHO    | MASTAKI    | Léonce    |
+| MUHINDO    | KAPUTU     | Victoire    |
+| AGONVA     | TADUMA     | Michel    |
+|IGUNDA      | WASSO      | RICHARD   |
+| SOKIANE    | MATHE      | Prisca    |
+|MASIKA | MATUMO |Clarice|
+| MASIKA | MWENGESYALI | Alice |
+| ARCHANGE    | NYONDO    | Archange   |
+| KASEREKA   | VIHAMBA    | Stiven    |
+| mumbere     | ndako    | Elie |
+| MBAMBU     | SIVALINGANA    | Sarah |
+| Furaha     | Hangi    | Jessica |
