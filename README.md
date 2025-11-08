@@ -34,6 +34,7 @@
 | kavira     | MULIVONDO     | Ornella   |
 | KASOKI     | VUSARA     | Livya     |
 | KAVUGHO    | MASTAKI    | Léonce    |
+| MUHINDO    | KAPUTU     | Victoire    |
 | AGONVA     | TADUMA     | Michel    |
 |IGUNDA      | WASSO      | RICHARD   |
 | SOKIANE    | MATHE      | Prisca    |
